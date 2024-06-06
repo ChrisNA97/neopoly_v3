@@ -35,7 +35,6 @@ dependencies:
   - dask-core=2022.12.1
   - expat=2.5.0
   - filelock=3.9.0
-  - flask=3.0.0
   - font-ttf-dejavu-sans-mono=2.37
   - font-ttf-inconsolata=3.000
   - font-ttf-source-code-pro=2.038
