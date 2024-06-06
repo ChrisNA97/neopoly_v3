@@ -3,6 +3,7 @@ channels:
   - pytorch
   - anaconda
   - conda-forge
+  - defaults
 dependencies:
   - ase=3.22.1
   - blas=1.0
