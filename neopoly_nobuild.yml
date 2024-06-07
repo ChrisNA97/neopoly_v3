@@ -143,8 +143,6 @@ dependencies:
   - python-dateutil=2.8.2
   - python-tzdata=2023.3
   - python_abi=3.8
-  - pytorch=2.0.1
-  - pytorch_geometric=2.4.0
   - pywavelets=1.4.1
   - pyyaml=5.4.1
   - rdflib=7.0.0
@@ -167,7 +165,6 @@ dependencies:
   - tifffile=2021.4.8
   - tk=8.6.12
   - toolz=0.12.0
-  - torchmetrics=1.2.1
   - tornado=6.1
   - tqdm=4.65.0
   - trimesh=4.0.8
@@ -213,6 +210,5 @@ dependencies:
       - pytz==2023.3
       - pyvis==0.3.2
       - stack-data==0.6.2
-      - torch-scatter==2.1.2
       - traitlets==5.9.0
       - wcwidth==0.2.6
