@@ -1,6 +1,5 @@
 name: neopoly_nobuild
 channels:
-  - pytorch
   - anaconda
   - conda-forge
   - defaults
