@@ -1,4 +1,4 @@
-name: neopoly_nobuild
+name: neopoly
 channels:
   - pytorch
   - anaconda
