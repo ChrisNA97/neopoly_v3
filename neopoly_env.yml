@@ -90,8 +90,6 @@ dependencies:
   - libexpat=2.5.0
   - libffi=3.4.4
   - libgd=2.3.3
-  - libgfortran=5.0.0
-  - libgfortran5=11.3.0
   - libiconv=1.17
   - libllvm14=14.0.6
   - libnghttp2=1.57.0
@@ -169,7 +167,6 @@ dependencies:
   - tifffile=2021.4.8
   - tk=8.6.12
   - toolz=0.12.0
-  - torchaudio=2.0.2
   - torchmetrics=1.2.1
   - torchvision=0.15.2
   - tornado=6.1
