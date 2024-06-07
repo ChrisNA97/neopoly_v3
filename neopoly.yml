@@ -214,6 +214,5 @@ dependencies:
       - pytz==2023.3
       - pyvis==0.3.2
       - stack-data==0.6.2
-      - torch-scatter==2.1.2
       - traitlets==5.9.0
       - wcwidth==0.2.6
