@@ -168,7 +168,6 @@ dependencies:
   - tk=8.6.12
   - toolz=0.12.0
   - torchmetrics=1.2.1
-  - torchvision=0.15.2
   - tornado=6.1
   - tqdm=4.65.0
   - trimesh=4.0.8
