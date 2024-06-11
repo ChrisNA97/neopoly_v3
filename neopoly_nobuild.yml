@@ -144,6 +144,7 @@ dependencies:
   - python-tzdata=2023.3
   - python_abi=3.8
   - pytorch=2.1.0
+  - pytorch_geometric=2.4.0
   - pywavelets=1.4.1
   - pyyaml=5.4.1
   - rdflib=7.0.0
