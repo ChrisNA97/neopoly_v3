@@ -1,0 +1,27 @@
+name: neopoly_nobuild
+channels:
+  - pytorch
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - imbalanced-learn=0.12.0
+  - matplotlib
+  - matplotlib-base
+  - networkx=2.7.1
+  - pip
+  - psutil
+  - python=3.8.17
+  - pytorch=2.1.0
+  - pytorch_geometric=2.4.0
+  - pywavelets=1.4.1
+  - rdkit=2021.09.2
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - setuptools
+  - sqlite
+  - statsmodels=0.14.0
+  - sympy=1.11.1
+  - tqdm
+  - wheel
